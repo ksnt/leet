@@ -1,5 +1,7 @@
 # leet
 
+The number of questions: 816 (2018/06/16)  
+
 |problem number|day|
 |:--|--:|
 1 | 2018-06-11
