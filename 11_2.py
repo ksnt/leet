@@ -1,5 +1,6 @@
 # 2.Two Pointer Approach
 # I do not know why this can be a solution to search for all possible patters without proof...
+# Proof is here: https://leetcode.com/problems/container-with-most-water/discuss/6089/anyone-who-has-a-on-algorithm
 def maxArea(height):
         """
         :type height: List[int]
