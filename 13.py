@@ -18,11 +18,10 @@ class Solution:
                 else:
                     sum += 5
             elif i == 'X':
+                count_X += 1
                 if count_I == 1:
-                    count_X += 1
                     sum += 8
                 else:
-                    count_X += 1
                     sum += 10
             elif i == 'L':
                 if count_X == 1:
@@ -30,11 +29,10 @@ class Solution:
                 else:
                     sum += 50
             elif i == 'C':
+                count_C += 1
                 if count_X == 1:
-                    count_C += 1
                     sum += 80
                 else:
-                    count_C += 1
                     sum += 100
             elif i == 'D':
                 if count_C == 1:
