@@ -1,6 +1,6 @@
 # leet
 
-The number of questions: 816 (2018/06/16)  
+The number of problems: 816 (2018/06/16)  
 
 |problem number|day|
 |:--|--:|
