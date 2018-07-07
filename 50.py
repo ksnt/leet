@@ -1,7 +1,5 @@
 # Eficient version: O(log2(n))
 # (reference) http://d.hatena.ne.jp/kazu-yamamoto/20090223/1235372875
-import sys
-sys.setrecursionlimit(100000)
 class Solution:
     def myPow(self,x, n):
         """
