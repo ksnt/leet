@@ -1,3 +1,4 @@
+# Reference: https://www.lifewithpython.com/2013/11/python-remove-duplicates-from-lists.html
 class Solution:
     def removeDuplicates(self,nums):
         """
