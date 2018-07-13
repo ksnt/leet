@@ -4,7 +4,7 @@ class Solution:
         :type s: str
         :rtype: bool
         """
-        a = re.sub(re.compile("[!-/:-@[-`{-~\s]"), '', s).replace(" ","").lower()
+        a = re.sub(re.compile("[!-/:-@[-`{-~\s]"), '', s).lower()
         if len(a) % 2 == 0:
             return a[0:len(a)//2] == a[::-1][0:len(a)//2]
         else:
