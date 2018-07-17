@@ -1,9 +1,10 @@
 # leet
 
-The number of problems: 833 (2018/07/10)  
+Progress: 60 / 861 (2018/07/18)  
+Easy 50, Medium 9, Hard 1  
 
-|problem number|day|
-|:--|--:|
+|problem number|day| levels| remarks
+|:--|--:|:--|:--|
 1 | 2018-06-11
 2 | 2018-06-12
 7 | 2018-06-12
@@ -62,4 +63,5 @@ The number of problems: 833 (2018/07/10)
 832| 2018-07-16
 202| 2018-07-17
 189| 2018-07-17
+198| 2018-07-17| easy| DP
 
