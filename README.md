@@ -1,7 +1,7 @@
 # leet
 
-Progress: 69 / 861 (2018/07/18)  
-Easy 59, Medium 9, Hard 1  
+Progress: 70 / 861 (2018/07/18)  
+Easy 60, Medium 9, Hard 1  
 
 |problem number|day| levels| remarks
 |:--|--:|:--|:--|
@@ -72,4 +72,5 @@ Easy 59, Medium 9, Hard 1
 342| 2018-07-18| easy | Number
 599| 2018-07-18| easy | 
 628| 2018-07-18| easy | Number
-633| 2018-07-18| easy (- medium)| Number, Complexity
+633| 2018-07-18| easy (- med)| Number, Complexity
+645| 2018-07-18| easy (- med)| Complexity
