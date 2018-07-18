@@ -68,3 +68,4 @@ Easy 54, Medium 9, Hard 1
 155| 2018-07-17| easy| OOP, Stack
 344| 2018-07-17| extremely easy|
 796| 2018-07-18| easy |
+326| 2018-07-18| easy |
