@@ -10,4 +10,4 @@ class Solution:
                 return i-1
             else:
                 prev = A[i]
-        return _
+        return i
