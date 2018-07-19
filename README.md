@@ -74,3 +74,4 @@ Easy 60, Medium 9, Hard 1
 628| 2018-07-18| easy | Number
 633| 2018-07-18| easy (- med)| Number, Complexity
 645| 2018-07-18| easy (- med)| Complexity
+852| 2018-07-19| easy | Complexity
