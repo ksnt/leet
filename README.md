@@ -76,3 +76,4 @@ Easy 61, Medium 10, Hard 1
 645| 2018-07-18| easy (- med)| Complexity
 852| 2018-07-19| easy | Complexity
 8| 2018-07-19| med | complicated conditions
+258| 2018-07-19| extremely easy | Number
