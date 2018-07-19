@@ -5,8 +5,8 @@ class Solution:
         :type nums: List[int]
         :rtype: int
         """
-        store = [0,0]
+        dp_restore = [0,0]
         for i in range(2,len(nums)+2):
-            store.append(max(store[i-2]+nums[i-2],store[i-1]))
-        #print(store)
-        return store[-1]
+            dp_restore.append(max(dp_restore[i-2]+nums[i-2],dp_restore[i-1]))
+        #print(dp_restore)
+        return dp_restore[-1]
