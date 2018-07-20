@@ -77,3 +77,4 @@ Easy 62, Medium 10, Hard 1
 852| 2018-07-19| easy | Complexity
 8| 2018-07-19| med | complicated conditions
 258| 2018-07-19| extremely easy | Number
+744| 2018-07-20| easy | complicated conditions
