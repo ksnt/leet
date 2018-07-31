@@ -1,7 +1,7 @@
 # leet
 
-Progress: 78 / 861 (2018/07/18)  
-Easy 67, Medium 10, Hard 1  
+Progress: 79 / 861 (2018/07/18)  
+Easy 67, Medium 10, Hard 2  
 
 |problem number|day| levels for me| levels by official | remarks
 |:--|--:|:--|:--|:--|
@@ -82,3 +82,4 @@ Easy 67, Medium 10, Hard 1
 389| 2018-07-31| easy | easy | String
 415| 2018-07-31| easy | easy | String
 415| 2018-07-31| ? | med | SQL, Complex query
+185| 2018-07-31| med | hadr | SQL, Complex query
