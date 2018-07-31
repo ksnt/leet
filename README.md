@@ -1,7 +1,7 @@
 # leet
 
-Progress: 75 / 861 (2018/07/18)  
-Easy 64, Medium 10, Hard 1  
+Progress: 76 / 861 (2018/07/18)  
+Easy 65, Medium 10, Hard 1  
 
 |problem number|day| levels for me| levels by official | remarks
 |:--|--:|:--|:--|:--|
@@ -79,3 +79,4 @@ Easy 64, Medium 10, Hard 1
 258| 2018-07-19| extremely easy || Number
 744| 2018-07-20| easy || complicated conditions
 177| 2018-07-20| easy | med | SQL, LIMIT, OFFSET
+389| 2018-07-31| easy | easy | String
