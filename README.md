@@ -1,10 +1,10 @@
 # leet
 
-Progress: 74 / 861 (2018/07/18)  
-Easy 63, Medium 10, Hard 1  
+Progress: 75 / 861 (2018/07/18)  
+Easy 64, Medium 10, Hard 1  
 
-|problem number|day| levels| remarks
-|:--|--:|:--|:--|
+|problem number|day| levels for me| levels by official | remarks
+|:--|--:|:--|:--|:--|
 1 | 2018-06-11
 2 | 2018-06-12
 7 | 2018-06-12
@@ -63,18 +63,19 @@ Easy 63, Medium 10, Hard 1
 832| 2018-07-16
 202| 2018-07-17
 189| 2018-07-17
-198| 2018-07-17| easy| DP
+198| 2018-07-17| easy| | DP
 88| 2018-07-17| easy|
-155| 2018-07-17| easy| OOP, Stack
+155| 2018-07-17| easy|| OOP, Stack
 344| 2018-07-17| extremely easy|
 796| 2018-07-18| easy |
-326| 2018-07-18| easy | Number
-342| 2018-07-18| easy | Number
-599| 2018-07-18| easy | 
-628| 2018-07-18| easy | Number
-633| 2018-07-18| easy (- med)| Number, Complexity
-645| 2018-07-18| easy (- med)| Complexity
-852| 2018-07-19| easy | Complexity
-8| 2018-07-19| med | complicated conditions
-258| 2018-07-19| extremely easy | Number
-744| 2018-07-20| easy | complicated conditions
+326| 2018-07-18| easy || Number
+342| 2018-07-18| easy || Number
+599| 2018-07-18| easy ||
+628| 2018-07-18| easy ||Number
+633| 2018-07-18| easy (- med)|| Number, Complexity
+645| 2018-07-18| easy (- med)|| Complexity
+852| 2018-07-19| easy || Complexity
+8| 2018-07-19| med || complicated conditions
+258| 2018-07-19| extremely easy || Number
+744| 2018-07-20| easy || complicated conditions
+177| 2018-07-20| easy | med | SQL, LIMIT, OFFSET
