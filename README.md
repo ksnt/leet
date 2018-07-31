@@ -82,4 +82,5 @@ Easy 67, Medium 10, Hard 2
 389| 2018-07-31| easy | easy | String
 415| 2018-07-31| easy | easy | String
 415| 2018-07-31| ? | med | SQL, Complex query
-185| 2018-07-31| med | hadr | SQL, Complex query
+185| 2018-07-31| med | hard | SQL, Complex query
+184| 2018-07-31| med | med | SQL, Complex query
