@@ -90,4 +90,5 @@ Easy 71, Medium 11, Hard 4
 896| 2018-09-14| extremely easy | easy | Array
 888| 2018-09-14| easy | easy | efficiency  
 118| 2018-09-15| easy | easy | DP, Pascal's Triangle    
+119| 2018-09-15| easy | easy | DP, Pascal's Triangle, Memoruy optimization      
 
