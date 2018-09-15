@@ -1,7 +1,7 @@
 # leet
 
-Progress: 88 / 861 (2018/07/18)  
-Easy 73, Medium 11, Hard 4  
+Progress: 89 / 861 (2018/07/18)  
+Easy 74, Medium 11, Hard 4  
 
 |problem number|day| levels for me| levels by official | remarks
 |:--|--:|:--|:--|:--|
@@ -92,3 +92,4 @@ Easy 73, Medium 11, Hard 4
 118| 2018-09-15| easy | easy | DP, Pascal's Triangle    
 119| 2018-09-15| easy | easy | DP, Pascal's Triangle, Memoruy optimization      
 191| 2018-09-15| extremely easy | easy | string  
+190| 2018-09-15| easy | easy | bit operation  
