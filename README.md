@@ -96,3 +96,4 @@ Easy 77, Medium 11, Hard 4
 67| 2018-09-16| easy | easy | bit operation  
 83| 2018-09-16| easy | easy | linked list    
 206| 2018-09-19| easy | easy | linked list    
+876| 2018-09-20| × | easy | linked list    
