@@ -1,7 +1,7 @@
 # leet
 
-Progress: 97 / 901 (2018/09/17)  
-Easy 82, Medium 11, Hard 4  
+Progress: 99 / 901 (2018/09/17)  
+Easy 84, Medium 11, Hard 4  
 
 |problem number|day| levels for me| levels by official | remarks
 |:--|--:|:--|:--|:--|
@@ -101,4 +101,6 @@ Easy 82, Medium 11, Hard 4
 746| 2018-09-20| △ | easy | DP     
 167| 2018-09-20| med | easy | array, optimization      
 905| 2018-09-20| extremely easy | easy | array     
+292| 2018-09-20| ? | easy |      
+476| 2018-09-21| easy | easy | bit      
 
