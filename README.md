@@ -106,4 +106,5 @@ Easy 85, Medium 13, Hard 4
 693| 2018-09-21| easy | easy | bit operation     
 921| 2018-10-17| easy | med |  complicated conditions  
 15| 2018-10-17| X | med |  complexity    
+5| 2018-10-17| △ | med |  complicated conditions    
 
