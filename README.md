@@ -1,7 +1,7 @@
 # leet
 
-Progress: 101 / 901 (2018/09/17)  
-Easy 85, Medium 12, Hard 4  
+Progress: 102 / 901 (2018/09/17)  
+Easy 85, Medium 13, Hard 4  
 
 |problem number|day| levels for me| levels by official | remarks
 |:--|--:|:--|:--|:--|
@@ -105,4 +105,5 @@ Easy 85, Medium 12, Hard 4
 476| 2018-09-21| easy | easy | bit operation     
 693| 2018-09-21| easy | easy | bit operation     
 921| 2018-10-17| easy | med |  complicated conditions  
+15| 2018-10-17| X | med |  complexity    
 
