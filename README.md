@@ -1,7 +1,7 @@
 # leet
 
-Progress: 106 / 901 (2018/09/17)  
-Easy 85, Medium 17, Hard 4  
+Progress: 107 / 901 (2018/09/17)  
+Easy 85, Medium 18, Hard 4  
 
 |problem number|day| levels for me| levels by official | remarks
 |:--|--:|:--|:--|:--|
@@ -110,4 +110,5 @@ Easy 85, Medium 17, Hard 4
 12| 2018-10-17| easy | med |  complicated conditions    
 384| 2018-10-17| ??? | med |  OOP, call-by-reference/call-by-value      
 22| 2018-10-17| easy-med | med | ?      
+319| 2018-10-17| X I came across a solution by Stefan Pochmann. I could not find the way. Never. I will find another way again. | med | math?      
 
