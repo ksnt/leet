@@ -1,7 +1,7 @@
 # leet
 
-Progress: 110 / 901 (2018/09/17)  
-Easy 87, Medium 19, Hard 4  
+Progress: 111 / 901 (2018/09/17)  
+Easy 87, Medium 20, Hard 4  
 
 |problem number|day| levels for me| levels by official | remarks
 |:--|--:|:--|:--|:--|
@@ -114,4 +114,5 @@ Easy 87, Medium 19, Hard 4
 17| 2018-10-19| easy | med | digits        
 203| 2018-10-19| X | easy | linked list    
 237| 2018-10-19| ? | easy | linked list    
+19| 2018-10-19| easy | med | linked list  
 
