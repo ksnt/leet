@@ -117,6 +117,6 @@ Easy 89, Medium 22, Hard 4
 19| 2018-10-19| easy | med | linked list  
 817| 2018-10-20| med | med | linked list  
 922| 2018-10-20| easy | easy | array | 36.83%  
-6| 2018-10-21| med | med | array | 10.82%  
+6| 2018-10-21| med | med | array | 36.33%  
 925| 2018-10-25| X | easy | string | 32.78%    
 
