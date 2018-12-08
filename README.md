@@ -120,4 +120,4 @@ Easy 90, Medium 22, Hard 4
 6| 2018-10-21| med | med | array | 36.33%  
 925| 2018-10-25| X | easy | string | 32.78%    
 204| 2018-10-28| easy | easy | math, prime numbers | 6.80%    
-
+942| 2018-12-08| easy | easy | array | 10.99%  
