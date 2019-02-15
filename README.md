@@ -1,7 +1,7 @@
 # leet
 
-Progress: 123 / 901 (2018/09/17)  
-Easy 97, Medium 22, Hard 4  
+Progress: 124 / 901 (2018/09/17)  
+Easy 98, Medium 22, Hard 4  
 
 |problem number|day| levels for me| levels by official | remarks| faster than|
 |:--|--:|:--|:--|:--|:--|
@@ -127,3 +127,4 @@ Easy 97, Medium 22, Hard 4
 350| 2019-02-15| easy | easy | array | 6.85%  
 973| 2019-02-15| easy | easy | array, math | 6.85%  
 461| 2019-02-15| easy | easy | math | 53.04%  
+509| 2019-02-15| easy | easy | number | 21.48%   
