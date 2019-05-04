@@ -1,7 +1,7 @@
 # leet
 
-Progress: 132 / 901 (2018/09/17)  
-Easy 102, Medium 25, Hard 5  
+Progress: 133 / 901 (2018/09/17)  
+Easy 102, Medium 26, Hard 5  
 
 |problem number|day| levels for me| levels by official | remarks| faster than|
 |:--|--:|:--|:--|:--|:--|
@@ -135,3 +135,4 @@ Easy 102, Medium 25, Hard 5
 16| 2019--05-04| med | med | array | 60.58%  
 46| 2019--05-04| easy | med | combinatorics | 92.77%  
 47| 2019--05-04| easy | med | combinatorics | 63.59%  
+60| 2019--05-04| easy | med | combinatorics | 8.68%   
