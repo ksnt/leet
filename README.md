@@ -1,7 +1,7 @@
 # leet
 
-Progress: 137 / 901 (2018/09/17)  
-Easy 103, Medium 29, Hard 5  
+Progress: 138 / 901 (2018/09/17)  
+Easy 103, Medium 30, Hard 5  
 
 |problem number|day| levels for me| levels by official | remarks| faster than|
 |:--|--:|:--|:--|:--|:--|
@@ -140,4 +140,5 @@ Easy 103, Medium 29, Hard 5
 1002| 2019--05-04| X | med | words count | 84.58%   
 1009| 2019-05-05| easy | easy | binary | 19.01%   
 137 | 2019--05-05| easy | med | count | 89.18%   
+260 | 2019--05-05| very easy | med | count | 32.28%   
 
