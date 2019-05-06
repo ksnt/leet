@@ -143,3 +143,4 @@ Easy 104, Medium 31, Hard 5
 260 | 2019--05-05| very easy | med | count | 32.28%   
 347 | 2019--05-05| very easy | med | count | 90.46%   
 53 | 2019--05-06| easy | easy | DP | 64.22%  
+101 | 2019--05-06| easy | easy | Tree | 99.21%   
