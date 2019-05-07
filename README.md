@@ -1,7 +1,7 @@
 # leet
 
-Progress: 142 / 901 (2018/09/17)  
-Easy 106, Medium 31, Hard 5  
+Progress: 143 / 901 (2018/09/17)  
+Easy 107, Medium 31, Hard 5  
 
 |problem number|day| levels for me| levels by official | remarks| faster than|
 |:--|--:|:--|:--|:--|:--|
@@ -132,16 +132,17 @@ Easy 106, Medium 31, Hard 5
 1018| 2019-04-30| X(med) | easy | bit | 62.36%   
 205| 2019-05-01| easy | easy | string | 84.41%   
 290| 2019-05-02| easy | easy | string | 17.18%   
-16| 2019--05-04| med | med | array | 60.58%  
-46| 2019--05-04| easy | med | combinatorics | 92.77%  
-47| 2019--05-04| easy | med | combinatorics | 63.59%  
-60| 2019--05-04| easy | med | combinatorics | 8.68%   
-77| 2019--05-04| easy | med | combinatorics | 94.01%   
-1002| 2019--05-04| X | med | words count | 84.58%   
+16| 2019-05-04| med | med | array | 60.58%  
+46| 2019-05-04| easy | med | combinatorics | 92.77%  
+47| 2019-05-04| easy | med | combinatorics | 63.59%  
+60| 2019-05-04| easy | med | combinatorics | 8.68%   
+77| 2019-05-04| easy | med | combinatorics | 94.01%   
+1002| 2019-05-04| X | med | words count | 84.58%   
 1009| 2019-05-05| easy | easy | binary | 19.01%   
-137 | 2019--05-05| easy | med | count | 89.18%   
-260 | 2019--05-05| very easy | med | count | 32.28%   
-347 | 2019--05-05| very easy | med | count | 90.46%   
-53 | 2019--05-06| easy | easy | DP | 64.22%  
-101 | 2019--05-06| easy | easy | Tree | 99.21%   
-409 | 2019--05-07| X | easy | string | 99.46%    
+137 | 2019-05-05| easy | med | count | 89.18%   
+260 | 2019-05-05| very easy | med | count | 32.28%   
+347 | 2019-05-05| very easy | med | count | 90.46%   
+53 | 2019-05-06| easy | easy | DP | 64.22%  
+101 | 2019-05-06| easy | easy | Tree | 99.21%   
+409 | 2019-05-07| X | easy | string | 99.46%    
+504 | 2019-05-07| a little easy | easy | binary | 98.87%  
