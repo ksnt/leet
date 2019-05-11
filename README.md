@@ -146,3 +146,4 @@ Easy 107, Medium 31, Hard 5
 101 | 2019-05-06| easy | easy | Tree | 99.21%   
 409 | 2019-05-07| X | easy | string | 99.46%    
 504 | 2019-05-07| a little easy | easy | binary | 98.87%  
+160 | 2019-05-11| X(med) | easy | Linked list | 23.51%  
