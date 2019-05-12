@@ -1,7 +1,7 @@
 # leet
 
-Progress: 146 / 901 (2018/09/17)  
-Easy 110, Medium 31, Hard 5  
+Progress: 147 / 901 (2018/09/17)  
+Easy 111, Medium 31, Hard 5  
 
 |problem number|day| levels for me| levels by official | remarks| faster than|
 |:--|--:|:--|:--|:--|:--|
@@ -148,4 +148,5 @@ Easy 110, Medium 31, Hard 5
 504 | 2019-05-07| a little easy | easy | binary | 98.87%  
 160 | 2019-05-11| X(med) | easy | Linked list | 23.51%  
 141 | 2019-05-12| easy | easy | Linked list | 98.25%  
-104 | 2019-05-12| easy | easy | Binary Tree | 90.02%  
+104 | 2019-05-12| easy | easy | Tree | 90.02%  
+112 | 2019-05-12| △(easy) | easy | Tree | 98.95%  
