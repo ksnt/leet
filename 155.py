@@ -36,7 +36,7 @@ class MinStack:
             return None
         else:
             return self.stack[-1]      
-    def getMin(self):189_wrong.py
+    def getMin(self):
         """
         :rtype: int
         """
