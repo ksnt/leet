@@ -1,7 +1,7 @@
 # leet
 
-Progress: 160 / 1113 (2019/07/10)  
-Easy 122, Medium 33, Hard 5  
+Progress: 161 / 1113 (2019/07/10)  
+Easy 123, Medium 33, Hard 5  
 
 |problem number|day| levels for me| levels by official | remarks| faster than|
 |:--|--:|:--|:--|:--|:--|
@@ -163,3 +163,5 @@ Easy 122, Medium 33, Hard 5
 1018 | 2019-07-10| extremely easy | easy | string | 80.94%   
 1122 | 2019-07-15| easy | easy | array | 32.48%  
 1114 | 2019-07-17| △ | easy | concurrency | 21.12%  
+1137 | 2019-10-16| easy | easy | DP, memoization | 26.51%  
+
