@@ -1,6 +1,6 @@
 # leet
 
-Progress: 161 / 1113 (2019/07/10)  
+Progress: 161 / 1224 (2019/10/16)  
 Easy 123, Medium 33, Hard 5  
 
 |problem number|day| levels for me| levels by official | remarks| faster than|
