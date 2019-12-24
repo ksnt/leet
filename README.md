@@ -1,7 +1,7 @@
 # leet
 
-Progress: 165 / 1224 (2019/10/16)  
-Easy 126, Medium 34, Hard 5  
+Progress: 166 / 1224 (2019/10/16)  
+Easy 126, Medium 35, Hard 5  
 
 |problem number|day| levels for me| levels by official | remarks| faster than|
 |:--|--:|:--|:--|:--|:--|
@@ -165,6 +165,7 @@ Easy 126, Medium 34, Hard 5
 1114 | 2019-07-17| △ | easy | concurrency | 21.12%  
 1137 | 2019-10-16| easy | easy | DP, memoization | 26.51%  
 146  | 2019-12-18| med  | med  | LRU cache |  90.99%
-1295 | 2019-12-18| extremely easy  | easy  | string |  100%  
-1281 | 2019-12-18| extremely easy  | easy  | string |  83.28%  
-1089 | 2019-12-18| easy  | easy  | list |  23.31%  
+1295 | 2019-12-23| extremely easy  | easy  | string |  100%  
+1281 | 2019-12-23| extremely easy  | easy  | string |  83.28%  
+1089 | 2019-12-23| easy  | easy  | list |  23.31%  
+1282 | 2019-12-24| X  | med  | list, dict |  92.99%  
