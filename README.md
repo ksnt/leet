@@ -1,7 +1,7 @@
 # leet
 
-Progress: 170 / 1224 (2019/10/16)  
-Easy 130, Medium 35, Hard 5  
+Progress: 171 / 1224 (2019/10/16)  
+Easy 131, Medium 35, Hard 5  
 
 |problem number|day| levels for me| levels by official | remarks| faster than|
 |:--|--:|:--|:--|:--|:--|
@@ -173,4 +173,5 @@ Easy 130, Medium 35, Hard 5
 1187 | 2019-12-24| easy  | easy  | ? |  57.17%  
 1304 | 2020-01-03| easy  | easy  | list |  83.53%  
 1299 | 2020-01-03| X (easy - med)  | easy  | list |  18.59%   
+1313 | 2020-01-13| easy  | easy  | list |  100%   
 
