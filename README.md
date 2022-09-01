@@ -176,3 +176,4 @@ Easy 133, Medium 35, Hard 5
 1313 | 2020-01-13| easy  | easy  | list |  100%   
 1323 | 2020-01-20| easy  | easy  | str |  85.41%  
 1342 | 2020-02-12| easy  | easy  | ? |  23.68%  
+2373 | 2022-09-02| easy  | easy  | list | 30.65%  
